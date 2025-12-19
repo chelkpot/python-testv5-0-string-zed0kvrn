@@ -2,6 +2,8 @@
 
 def solve():
 # Ниже пишите решение задачи
+    phrase = input()
+    print(phrase * 3)
     
     
 
